@@ -1,0 +1,10 @@
+.header-logo{
+    width: 100px;
+  height: 100px;
+}
+.content {
+    background-color: red;
+    border: 10px 0; }
+.price  {
+        text-align: center;
+        font-size: 30px; }
